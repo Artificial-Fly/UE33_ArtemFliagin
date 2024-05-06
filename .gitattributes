@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+$ git remote add gitlabRepo https://gitlab.com/Average942/UE33_ArtemFliagin.git; 
+$ git fetch gitlabRepo dev;
